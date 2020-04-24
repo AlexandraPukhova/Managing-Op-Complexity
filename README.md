@@ -7,4 +7,4 @@ I took on the IBM HR Attrition Challenge. I implemented three models: Decision T
 
 ### Link to Article
 
-* Battling Data Imbalance in IBM Attrition Challenge: 
+* Battling Data Imbalance in IBM Attrition Challenge: https://medium.com/@alepukhova526/battling-data-imbalance-in-ibm-hr-attrition-challenge-3a26337a4943
